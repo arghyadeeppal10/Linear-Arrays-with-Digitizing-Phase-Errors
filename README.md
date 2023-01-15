@@ -8,6 +8,9 @@ A test problem for scanning at θ=60 deg., select the phase shifter states and c
 
 ![untitled1](https://user-images.githubusercontent.com/122711883/212532401-310e5bf7-d200-475b-a851-bdf6610256ed.png)
 - 3 bit phase shifters
+
+![untitled1](https://user-images.githubusercontent.com/122711883/212532536-470b4a05-9d2e-4eee-b355-b7e186d4aff2.png)
+
 - 4 bit phase shifters
 - 5 bit phase shifters
 
@@ -23,6 +26,7 @@ We range the phase shifter states in range [0 180]. The Phase Pattern is plotted
 - For 2 bit phase shifter, the phase states are = [90, 180]
 ![untitled2](https://user-images.githubusercontent.com/122711883/212532402-99f14004-b144-4d9f-862c-f587922c7bf2.png)
 - For 3 bit phase shifter, the phase states are = [45, 90, 180]
+![untitled2](https://user-images.githubusercontent.com/122711883/212532538-af15a2ba-4a5e-4657-8aef-3877f35ed453.png)
 - For 4 bit phase shifter, the phase states are = [22.5, 45, 90, 180]
 - For 5 bit phase shifter, the phase states are = [11.25, 22.5, 45, 90, 180]
 
