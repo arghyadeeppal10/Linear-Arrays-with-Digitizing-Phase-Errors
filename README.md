@@ -24,5 +24,5 @@ We range the phase shifter states in range [0 180]. The Phase Pattern is plotted
 
 The Normalised Directivity is also plotted. 
 
-~Arghyadeep Pal, MS Student, Applied Electromagnetics Group, Department of Electrical and Computer Engineering, University of California-San Diego
+~Arghyadeep Pal, MS Student, Applied Electromagnetics Group, Department of Electrical and Computer Engineering, University of California-San Diego.
 
