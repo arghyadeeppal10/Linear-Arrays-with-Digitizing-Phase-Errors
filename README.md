@@ -22,7 +22,7 @@ We range the phase shifter states in range [0 180]. The Phase Pattern is plotted
 - For 4 bit phase shifter, the phase states are = [22.5, 45, 90, 180]
 - For 5 bit phase shifter, the phase states are = [11.25, 22.5, 45, 90, 180]
 
-The Normalised Directivity is also plotted. 
+The Directivity is also calculated and plotted. 
 
 ~Arghyadeep Pal, MS Student, Applied Electromagnetics Group, Department of Electrical and Computer Engineering, University of California-San Diego.
 
