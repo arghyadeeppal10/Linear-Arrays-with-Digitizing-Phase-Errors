@@ -12,6 +12,10 @@ A test problem for scanning at θ=60 deg., select the phase shifter states and c
 ![untitled1](https://user-images.githubusercontent.com/122711883/212532536-470b4a05-9d2e-4eee-b355-b7e186d4aff2.png)
 
 - 4 bit phase shifters
+
+![untitled1](https://user-images.githubusercontent.com/122711883/212532691-178cabb7-8fed-431c-9e15-037f63b0831a.png)
+
+
 - 5 bit phase shifters
 
 In the codes, 
@@ -28,6 +32,7 @@ We range the phase shifter states in range [0 180]. The Phase Pattern is plotted
 - For 3 bit phase shifter, the phase states are = [45, 90, 180]
 ![untitled2](https://user-images.githubusercontent.com/122711883/212532538-af15a2ba-4a5e-4657-8aef-3877f35ed453.png)
 - For 4 bit phase shifter, the phase states are = [22.5, 45, 90, 180]
+![untitled2](https://user-images.githubusercontent.com/122711883/212532689-264bc46a-d326-4243-8358-c2dbd2542258.png)
 - For 5 bit phase shifter, the phase states are = [11.25, 22.5, 45, 90, 180]
 
 The Directivity is also calculated and plotted. 
