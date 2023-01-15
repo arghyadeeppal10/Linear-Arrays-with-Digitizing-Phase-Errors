@@ -6,17 +6,31 @@ fit best on a linear phase line and with equal + and – errors. This creates a 
 A test problem for scanning at θ=60 deg., select the phase shifter states and calculate the patterns using:
 - 2 bit phase shifters
 
-![untitled1](https://user-images.githubusercontent.com/122711883/212532401-310e5bf7-d200-475b-a851-bdf6610256ed.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532401-310e5bf7-d200-475b-a851-bdf6610256ed.png" />
+</p>
 - 3 bit phase shifters
 
-![untitled1](https://user-images.githubusercontent.com/122711883/212532536-470b4a05-9d2e-4eee-b355-b7e186d4aff2.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532536-470b4a05-9d2e-4eee-b355-b7e186d4aff2.png" />
+</p>
 
 - 4 bit phase shifters
 
-![untitled1](https://user-images.githubusercontent.com/122711883/212532691-178cabb7-8fed-431c-9e15-037f63b0831a.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532691-178cabb7-8fed-431c-9e15-037f63b0831a.png" />
+</p>
 
 - 5 bit phase shifters
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532898-4591daab-5d1e-435f-a801-31bb178d6f01.png" />
+</p>
+
+
+
+
+
 
 In the codes, 
 - _N_ represents number of radiating elements
@@ -28,12 +42,29 @@ Changing these parameter will cause shift in directCancel changesion of the beam
 
 We range the phase shifter states in range [0 180]. The Phase Pattern is plotted accordingly. 
 - For 2 bit phase shifter, the phase states are = [90, 180]
-![untitled2](https://user-images.githubusercontent.com/122711883/212532402-99f14004-b144-4d9f-862c-f587922c7bf2.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532402-99f14004-b144-4d9f-862c-f587922c7bf2.png" />
+</p>
+
 - For 3 bit phase shifter, the phase states are = [45, 90, 180]
-![untitled2](https://user-images.githubusercontent.com/122711883/212532538-af15a2ba-4a5e-4657-8aef-3877f35ed453.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532538-af15a2ba-4a5e-4657-8aef-3877f35ed453.png" />
+</p>
+
 - For 4 bit phase shifter, the phase states are = [22.5, 45, 90, 180]
-![untitled2](https://user-images.githubusercontent.com/122711883/212532689-264bc46a-d326-4243-8358-c2dbd2542258.png)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532689-264bc46a-d326-4243-8358-c2dbd2542258.png" />
+</p>
+
 - For 5 bit phase shifter, the phase states are = [11.25, 22.5, 45, 90, 180]
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122711883/212532899-9abd50f1-b5e0-4cdb-a848-64462e76d07c.png" />
+</p>
+
 
 The Directivity is also calculated and plotted. 
 
