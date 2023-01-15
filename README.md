@@ -14,7 +14,8 @@ In the codes,
 - _d_ represents the spacing between elements
 - _raised_cos_ represents the raised cosine taper
 - _angle_ represents the angle of scanning 
-Changing these parameter will cause shift in direction of the beam. This will allow visualising beam scanning operations.
+
+Changing these parameter will cause shift in directCancel changesion of the beam. This will allow visualising beam scanning operations.
 
 We range the phase shifter states in range [0 180]. The Phase Pattern is plotted accordingly. 
 - For 2 bit phase shifter, the phase states are = [90, 180]
