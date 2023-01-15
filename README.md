@@ -9,6 +9,7 @@ A test problem for scanning at θ=60 deg., select the phase shifter states and c
 <p align="center">
 <img src="https://user-images.githubusercontent.com/122711883/212532401-310e5bf7-d200-475b-a851-bdf6610256ed.png" />
 </p>
+
 - 3 bit phase shifters
 
 <p align="center">
@@ -66,7 +67,7 @@ We range the phase shifter states in range [0 180]. The Phase Pattern is plotted
 </p>
 
 
-The Directivity is also calculated and plotted. 
+The Directivity is also calculated.
 
 ~Arghyadeep Pal, MS Student, Applied Electromagnetics Group, Department of Electrical and Computer Engineering, University of California-San Diego.
 
