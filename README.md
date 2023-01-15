@@ -5,6 +5,8 @@ fit best on a linear phase line and with equal + and – errors. This creates a 
 
 A test problem for scanning at θ=60 deg., select the phase shifter states and calculate the patterns using:
 - 2 bit phase shifters
+
+![untitled1](https://user-images.githubusercontent.com/122711883/212532401-310e5bf7-d200-475b-a851-bdf6610256ed.png)
 - 3 bit phase shifters
 - 4 bit phase shifters
 - 5 bit phase shifters
@@ -19,6 +21,7 @@ Changing these parameter will cause shift in directCancel changesion of the beam
 
 We range the phase shifter states in range [0 180]. The Phase Pattern is plotted accordingly. 
 - For 2 bit phase shifter, the phase states are = [90, 180]
+![untitled2](https://user-images.githubusercontent.com/122711883/212532402-99f14004-b144-4d9f-862c-f587922c7bf2.png)
 - For 3 bit phase shifter, the phase states are = [45, 90, 180]
 - For 4 bit phase shifter, the phase states are = [22.5, 45, 90, 180]
 - For 5 bit phase shifter, the phase states are = [11.25, 22.5, 45, 90, 180]
